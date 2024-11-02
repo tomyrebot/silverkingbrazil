@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< Updated upstream:.idea/workspace.xml
+<<<<<<< Updated upstream:.idea/workspace.xml
     <list default="true" id="2c8c5604-e2c0-43d9-a540-7ea6355dfed8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
     </list>
+=======
+    <list default="true" id="2c8c5604-e2c0-43d9-a540-7ea6355dfed8" name="Changes" comment="" />
+>>>>>>> Stashed changes:silverkingbrazil/.idea/workspace.xml
 =======
     <list default="true" id="2c8c5604-e2c0-43d9-a540-7ea6355dfed8" name="Changes" comment="" />
 >>>>>>> Stashed changes:silverkingbrazil/.idea/workspace.xml
@@ -34,7 +38,11 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
 <<<<<<< Updated upstream:.idea/workspace.xml
+<<<<<<< Updated upstream:.idea/workspace.xml
     &quot;url&quot;: &quot;https://github.com/tomyrebot/silverkingbrazil.git&quot;,
+=======
+    &quot;url&quot;: &quot;git@github.com:tomyrebot/silverkingbrazil.git&quot;,
+>>>>>>> Stashed changes:silverkingbrazil/.idea/workspace.xml
 =======
     &quot;url&quot;: &quot;git@github.com:tomyrebot/silverkingbrazil.git&quot;,
 >>>>>>> Stashed changes:silverkingbrazil/.idea/workspace.xml
@@ -204,8 +212,11 @@
       <updated>1730518251801</updated>
       <workItem from="1730518252805" duration="1592000" />
 <<<<<<< Updated upstream:.idea/workspace.xml
+<<<<<<< Updated upstream:.idea/workspace.xml
       <workItem from="1730521349546" duration="15000" />
       <workItem from="1730521364971" duration="69000" />
+=======
+>>>>>>> Stashed changes:silverkingbrazil/.idea/workspace.xml
 =======
 >>>>>>> Stashed changes:silverkingbrazil/.idea/workspace.xml
     </task>
