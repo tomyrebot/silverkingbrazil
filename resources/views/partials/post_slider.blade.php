@@ -69,7 +69,7 @@
                     <img src="images/galery/1.jpg" alt="main-page-10">
                 </div>
                 <div class="post-slider__info">
-                    <h3 class="h3 title">@lang('home-page.h3-photo-title-4')Amanecer en las Tierras del Tarpon</h3>
+                    <h3 class="h3 title">@lang('home-page.h3-photo-title-4')</h3>
                     <div class="wysiwyg">
                         <p class="expandable-text">@lang('home-page.p-photo-4') </p>
                     </div>
