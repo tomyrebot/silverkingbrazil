@@ -8,19 +8,19 @@ return [
     'inicio_menu_item' => 'Home',
     'rios_menu_item' => 'Rivers',
     'idioma-selector' => 'Language',
-    'main-text-paragraph-1' => 'Explore the Best Waters of',
-    'main-text-paragraph-2' => 'Brazil',
-    'main-text-paragraph-3' => 'Embark on a unique adventure with Silver King Brazil, exploring the most impressive waters of the Northeast. Experience the thrill of sport fishing in untouched and authentic landscapes.',
-    'main-text-paragraph-4' => 'Explore the Best Waters of',
+    'main-text-paragraph-1' => 'Explore the most productive waters of the brazilian',
+    'main-text-paragraph-2' => ' northeast',
+    'main-text-paragraph-3' => 'Embark on a unique adventure with skb exploring the most productive waters of the Brazilian northeast. Live a unique experience enjoying sport fishing and authentic landscapes',
+    
     'contact-button-1'=> 'Contact us',
-    'h3-title'=> 'Personalized Experiences',
-    'p-1' => '"Tailored Adventure" Design your own fishing day with our personalized excursions. Choose your dates and adjust the experience according to your preferences and optimal fishing conditions.',
+    'h3-title'=> 'Custom trip',
+    'p-1' => '"Customized Adventure" Develop your fishing journey with our personalized excursions.
+                Contact us to plan and enhance your experience with SKB to the fullest.
+                Perfect for those who want to enjoy a family vacation while taking advantage of one of the best tarpon fishing opportunities in the world.',
+    
     'h3-title2'=>'Exotic Destinations',
-
-
-
-    'p-2'=> '"Explore the Rivers of the Northeast"
-                                    Immerse yourself in the natural beauty of Pernambuco and Paraíba, with access to unique rivers and stunning landscapes that offer the best opportunities for sport fishing.',
+    'p-2'=> '“be part of our exploratory trips” exploring rivers of the northeastern coast of Brazil. Immerse yourself in the natural beauty of Pernambuco, Paraíba, Rio Grande do Norte, Ceará and many other locations with access to unique rivers and impressive landscapes that offer optimal conditions for sport fishing. 
+                An excellent option for those who want to get out of the ordinary and live a completely innovative experience.',
 
     'h3-title3' => 'Comfort and Safety',
 

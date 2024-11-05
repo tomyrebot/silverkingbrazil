@@ -8,25 +8,27 @@ return [
     'inicio_menu_item' => 'Início',
     'rios_menu_item' => 'Rios',
     'idioma-selector' => 'Idioma',
-    'main-text-paragraph-1' => 'Explore as Melhores Águas de',
-    'main-text-paragraph-2' => 'Brasil',
-    'main-text-paragraph-3' => 'Embarque em uma aventura única com Silver King Brasil, explorando as águas mais impressionantes do Nordeste. Viva a emoção da pesca esportiva em paisagens inexploradas e autênticas.',
-    'main-text-paragraph-4' => 'Explore as Melhores Águas de',
+    'main-text-paragraph-1' => 'Explore as águas mais produtivas do nordeste',
+    'main-text-paragraph-2' => ' brasileiro',
+    'main-text-paragraph-3' => 'Embarque em uma aventura única com a skb explorando as águas mais produtivas do nordeste brasileiro. Viva uma experiência única desfrutando da pesca esportiva e de paisagens autênticas.',
+    
 
     'contact-button-1'=> 'Contate-nos',
-    'h3-title'=> 'Experiências Personalizadas',
-    'p-1'=> '"Aventura Sob Medida"
-                                        Projete seu próprio dia de pesca com nossas excursões personalizadas. Escolha suas datas e ajuste a experiência de acordo com suas preferências e as condições ideais de pesca.',
+    'h3-title'=> 'Viagem personalizada',
+    'p-1'=> '"Uma aventura personalizada"
+            Desenvolva sua jornada de pesca com nossas excursões personalizadas.
+            Entre em contato conosco para planejar e maximizar sua experiência com a SKB.
+            Ideal para quem deseja desfrutar de férias em família, aproveitando a oportunidade de realizar uma das melhores pescarias de tarpões do mundo.',
 
     'h3-title2'=>'Destinos Exóticos',
 
-    'p-2'=> '"Explore os Rios do Nordeste"
-                                        Mergulhe na beleza natural de Pernambuco e Paraíba, com acesso a rios únicos e paisagens impressionantes que oferecem as melhores oportunidades para a pesca esportiva.',
+    'p-2'=> '“faça parte de nossas viagens exploratórias” explorando rios do litoral nordeste do Brasil. Mergulhe nas belezas naturais de Pernambuco, Paraíba, Rio Grande do Norte, Ceará e muitas outras localidades com acesso a rios únicos e paisagens impressionantes que oferecem ótimas condições para a pesca esportiva. 
+                Uma excelente opção para quem quer sair do comum e viver uma experiência completamente inovadora.',
 
     'h3-title3' => 'Conforto e Segurança',
 
     'p-3'=> '"Embarcações Equipadas"
-                                        Desfrute da pesca com total conforto e segurança em nossas embarcações de última geração, projetadas para lhe proporcionar uma experiência de pesca inesquecível nas melhores condições.',
+            Desfrute da pesca com total conforto e segurança em nossas embarcações de última geração, projetadas para lhe proporcionar uma experiência de pesca inesquecível nas melhores condições.',
 
     'h2-1-title-river'=>'Aproveite as Melhores Paisagens',
 

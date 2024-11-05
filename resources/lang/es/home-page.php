@@ -8,21 +8,22 @@ return [
    'inicio_menu_item' => 'Inicio',
    'rios_menu_item' => 'Rios',
    'idioma-selector' => 'Idioma',
-    'main-text-paragraph-1' => 'Explora las Mejores Aguas de',
-    'main-text-paragraph-2' => 'Brasil',
-    'main-text-paragraph-3' => 'Embárcate en una aventura única con Silver King Brazil, explorando las aguas más impresionantes del nordeste. Vive la emoción de la pesca deportiva en paisajes inexplorados y auténticos.',
-    'main-text-paragraph-4' => 'Explora las Mejores Aguas de',
+    'main-text-paragraph-1' => 'Explora las aguas mas productivas del nordeste',
+    'main-text-paragraph-2' => ' Brasileño',
+    'main-text-paragraph-3' => 'Embárcate en una aventura única con skb explorando las aguas más productivas del nordeste brasileño. Vive una experiencia única disfrutando de la pesca deportiva y auténticos paisajes ',
+    
     'contact-button-1'=> 'Contactanos',
-    'h3-title'=> 'Experiencias Personalizadas',
-    'p-1'=> '"Aventura a Medida"
-                                    Diseña tu propia jornada de pesca con nuestras excursiones personalizadas. Elige tus fechas y ajusta la experiencia según tus preferencias y las condiciones óptimas de pesca.',
+    'h3-title'=> 'Viaje Personalizado',
+    'p-1'=> '
+            "Una aventura a tu medida"
+            Desarrolla tu jornada de pesca con nuestras excursiones personalizadas.
+            Entra en contacto con nosotros para diagramar y desarrollar al máximo tu experiencia con SKB. 
+            Ideal para quienes quieren disfrutar de unas vacaciones en familia, aprovechando la oportunidad de realizar una de las mejores pescas de tarpons en el mundo.',
+    
     'h3-title2'=>'Destinos Exóticos',
 
-
-
-
-    'p-2'=> '"Explora los Ríos del Nordeste"
-                                    Sumérgete en la belleza natural de Pernambuco y Paraíba, con acceso a ríos únicos y paisajes impresionantes que ofrecen las mejores oportunidades para la pesca deportiva.',
+    'p-2'=> '“sé parte de nuestras exploratory trips” explora rios del litoral nordestino de Brasil. Sumérgete en la belleza natural de Pernambuco, Paraíba, Rio Grande do Norte, Ceará y muchos otros locales con acceso a rios únicos y paisajes impresionantes que ofrecen óptimas condiciones para la pesca deportiva. 
+                Una excelente opción para quienes quieren salir de lo habitual y vivir una experiencia completamente innovadora.',
 
     'h3-title3' => 'Comodidad y Seguridad',
 
