@@ -45,7 +45,7 @@ return [
 
     'p-about-1'=>'At Silver King Brazil, we are pioneers in tarpon fishing along Brazil’s northeastern coast. With years of experience, we offer exciting excursions in Pernambuco and Paraíba, two of the most promising destinations for this species in South America.',
 
-    'p-about-2'=>'Our expert guides will take you fishing in rivers surrounded by mangroves and rocky formations, using fully equipped boats to ensure your comfort and safety. The fishing is mostly sight-based, taking advantage of the most productive times of the day, between 5 AM and 8 AM, and from 3 PM to 5 PM, adjusting to the tides for the best results.',
+    'p-about-2'=>'Our expert guides will take you fishing in rivers surrounded by mangroves and rocky formations, using fully equipped boats to ensure your comfort and safety. Fishing is primarily targeted at fish that are rolling on the surface, revealing their position and readiness to take the fly.',
 
     'h2-galery-title'=>'Our',
 

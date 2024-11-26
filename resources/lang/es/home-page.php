@@ -48,8 +48,7 @@ return [
 
     'p-about-1'=>'En Silver King Brazil, somos pioneros en la pesca de tarpon en la costa nordestina de Brasil. Con años de experiencia, ofrecemos emocionantes excursiones en Pernambuco y Paraíba, dos de los destinos más prometedores para esta especie en Sudamérica.',
 
-    'p-about-2'=>'Nuestros guías expertos te llevarán a pescar en ríos rodeados de manglares y formaciones rocosas, usando embarcaciones completamente equipadas para garantizar tu comodidad y seguridad. La pesca se realiza principalmente a pez visto, aprovechando los momentos más productivos del día, entre las 5 AM y las 8 AM, y de
-                                    3 PM a 5 PM, adaptándonos a las mareas para obtener los mejores resultados.',
+    'p-about-2'=>'Nuestros guías expertos te llevarán a pescar en ríos rodeados de manglares y formaciones rocosas, usando embarcaciones completamente equipadas para garantizar tu comodidad y seguridad. La pesca se realiza especialmente a peces que se encuentran rolleando en la superficie, los cuales nos revelan su orientación y predisposición para tomar la mosca.',
 
     'h2-galery-title'=>'Nuestras',
 

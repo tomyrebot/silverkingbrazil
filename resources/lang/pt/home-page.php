@@ -48,7 +48,7 @@ return [
 
     'p-about-1'=>'Na Silver King Brazil, somos pioneiros na pesca de tarpão na costa nordestina do Brasil. Com anos de experiência, oferecemos emocionantes excursões em Pernambuco e Paraíba, dois dos destinos mais promissores para essa espécie na América do Sul.',
 
-    'p-about-2'=>'Nossos guias especializados o levarão para pescar em rios cercados por manguezais e formações rochosas, usando embarcações totalmente equipadas para garantir seu conforto e segurança. A pesca é realizada principalmente à vista, aproveitando os momentos mais produtivos do dia, entre 5 AM e 8 AM, e de 3 PM a 5 PM, ajustando-se às marés para obter os melhores resultados.',
+    'p-about-2'=>'Nossos guias especializados o levarão para pescar em rios cercados por manguezais e formações rochosas, usando embarcações totalmente equipadas para garantir seu conforto e segurança. A pesca é direcionada principalmente a peixes que estão rolando na superfície, revelando sua posição e disposição para pegar a mosca.',
 
     'h2-galery-title'=>'Nossas',
 
