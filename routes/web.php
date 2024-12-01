@@ -10,5 +10,6 @@ Route::group(
     ['prefix' => LaravelLocalization::setLocale()],
     function() {
         Route::get('/', [HomeController::class, 'index']);
+        Route::get('/hi', [HomeController::class, 'hi']);
     }
 );
