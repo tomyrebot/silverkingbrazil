@@ -347,15 +347,6 @@
         });
     });
 
-    document.addEventListener("DOMContentLoaded", () => {
-        setTimeout(() => {
-            // Redirige a la misma URL actual agregando '/hi'
-            const currentUrl = window.location.origin + window.location.pathname + 'hi';
-            window.location.href = currentUrl;
-        }, 5000); // 5000 milisegundos = 5 segundos
-    });
-
-
 
 
     $(document).ready(function() {
